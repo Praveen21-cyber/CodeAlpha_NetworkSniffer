@@ -26,3 +26,9 @@ This project may require Npcap for full packet capturing functionality on Window
 
 ## 👨‍💻 Author
 Praveen
+## 🔍 Advanced Features
+- Captures and analyzes network packets
+- Displays IP layer information
+- Extracts TCP/UDP port details
+- Shows packet size
+- Displays payload data (if available)
